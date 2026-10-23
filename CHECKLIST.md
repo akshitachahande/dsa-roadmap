@@ -196,8 +196,8 @@ Legend:
 * [x] First occurrence
 * [x] Last occurrence
 * [x] Search in rotated array
-* [ ] Binary search on answer
-* [ ] Search on a monotonic function
+* [x] Binary search on answer
+* [-] Search on a monotonic function
 
 ## Important Problems
 
@@ -206,8 +206,8 @@ Legend:
 * [x] First and Last Position of Element
 * [x] Search in Rotated Sorted Array
 * [x] Find Minimum in Rotated Sorted Array
-* [] Find Peak Element
-* [ ] Koko Eating Bananas
+* [x] Find Peak Element
+* [x] Koko Eating Bananas
 * [ ] Capacity to Ship Packages Within D Days
 
 ---
