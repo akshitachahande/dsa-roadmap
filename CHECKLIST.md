@@ -208,7 +208,7 @@ Legend:
 * [x] Find Minimum in Rotated Sorted Array
 * [x] Find Peak Element
 * [x] Koko Eating Bananas
-* [ ] Capacity to Ship Packages Within D Days
+* [x] Capacity to Ship Packages Within D Days
 
 ---
 
